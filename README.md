@@ -12,7 +12,6 @@ Bibliothèque permetant de gérérer des tileset, se basant sur SDL.
 
 
 ### Explication Vidéo
-[![Interface administrateur](http://image.noelshack.com/fichiers/2018/38/7/1537655682-image14.jpg)](https://www.youtube.com/watch?v=fKTigZPoK78")
-
-https://www.youtube.com/watch?v=fKTigZPoK78 
+[![Explication vidéo](https://image.noelshack.com/fichiers/2019/18/2/1556622107-1200px-youtube-music-logo-svg.png)](https://www.youtube.com/watch?v=fKTigZPoK78")
+ 
 Vidéo de 14 minutes environ pour vous expliquez sont fonctionnement ! 
