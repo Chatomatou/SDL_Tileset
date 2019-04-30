@@ -9,3 +9,8 @@ Bibliothèque permetant de gérérer des tileset, se basant sur SDL.
 | ------ | ------ |
 | SDL 2.0 | https://www.libsdl.org/ |
 | SDL_image 2.0  |  https://www.libsdl.org/projects/SDL_image/ |
+
+
+### Explication Vidéo
+https://www.youtube.com/watch?v=fKTigZPoK78 
+Vidéo de 14 minutes environ pour vous expliquez sont fonctionnement ! 
